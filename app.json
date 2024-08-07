@@ -19,6 +19,7 @@
     },
     "android": {
       "adaptiveIcon": {
+        "package": "cruz.rafael",
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
